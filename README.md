@@ -1,5 +1,7 @@
 ### Hi there 👋
+https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr
 
+![QRUB](https://github.com/Guilhermertp/Guilhermertp/assets/80826962/0a3dfb13-4e7a-4a3c-ac60-1270f0591a47)
 
 
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
@@ -35,5 +37,8 @@ Here are some ideas to get you started:
 <img alt="Coder GIF" height=200 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
 <br>
 <img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+
+*******************OTHER cool GIFS*******************************
+
 
 ->
