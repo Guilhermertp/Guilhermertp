@@ -1,11 +1,11 @@
-### Hi there 👋 I'm Guilherme
+<h1 align="center">Hi there 👋 I'm Guilherme </h1>
                                                        
 <!-- REmove the anotation to display the counter ![Visitor Count](https://profile-counter.glitch.me/Guilhermertp/count.svg) -->
 
 <!-- REmove the anotation to display the MOss throwing cpc GIF ![QRUB](https://github.com/Guilhermertp/Guilhermertp/assets/80826962/0a3dfb13-4e7a-4a3c-ac60-1270f0591a47) -->
 
 
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<p align="center"><img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p>
 
 ![snake gif](https://github.com/Guilhermertp/Guilhermertp/blob/output/github-contribution-grid-snake.gif)
 <!--
