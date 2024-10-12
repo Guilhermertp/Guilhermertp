@@ -14,7 +14,7 @@
   <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Space GIF" style="width:500px;">
 
   <!-- Top Programmer GIF -->
-  <img src="https://example.com/programmer.gif](https://github.com/user-attachments/assets/ee9a5ca6-6159-4365-ba98-fce3d5eddff1" alt="Programmer GIF" style="position: absolute; top: 100px; left: 150px; width: 150px;">
+  <img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" alt="Programmer GIF" style="position: absolute; top: 100px; left: 150px; width: 150px;">
 </div>
 
 
