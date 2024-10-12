@@ -4,8 +4,16 @@
 
 <!-- REmove the anotation to display the MOss throwing cpc GIF ![QRUB](https://github.com/Guilhermertp/Guilhermertp/assets/80826962/0a3dfb13-4e7a-4a3c-ac60-1270f0591a47) -->
 
+<div style="position: relative; width: max-content;">
+  <img src="https://github.com/user-attachments/assets/ee9a5ca6-6159-4365-ba98-fce3d5eddff1" alt="Background GIF" style="width:500px;">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Top GIF" style="position: absolute; top: 0; left: 0; width: 100px;">
+</div>
 
+<!--
 <p align="center"><img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p>
+-->
+![original_ddaceecdd62614ddf9a488b75ef88075](https://github.com/user-attachments/assets/ee9a5ca6-6159-4365-ba98-fce3d5eddff1)
+![original_ddaceecdd62614ddf9a488b75ef88075](https://github.com/user-attachments/assets/164d4d17-fbc4-4e0d-bf60-4fed4596ad0d)
 
 <!-- remove anotation to show tools icons
 <div align="center">
