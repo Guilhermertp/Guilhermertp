@@ -15,7 +15,7 @@
 </div>
 -->
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,git,py,sklearn,html,flask,arduino&perline=4"alt="Python" width="50" height="50"/>   </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,git,py,sklearn,html,flask,arduino&perline=4"alt="Python" width="100" height="100"/>   </div>
   [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,git,py,sklearn,html,flask,arduino&perline=4)](https://skillicons.dev)
 
 <!--
