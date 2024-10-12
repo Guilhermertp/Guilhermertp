@@ -15,8 +15,8 @@
 </div>
 -->
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,git,py,sklearn,html,flask,arduino&perline=4"alt="Python" width="100" height="100"/>   </div>
-  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,git,py,sklearn,html,flask,arduino&perline=4)](https://skillicons.dev)
+<div align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,git,py,sklearn,html,flask,arduino&perline=4"alt="Python" width="200" height="200"/>   </div>
+
 
 <!--
 **Guilhermertp/Guilhermertp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
