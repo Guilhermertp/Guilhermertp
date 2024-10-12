@@ -4,11 +4,6 @@
 
 <!-- REmove the anotation to display the MOss throwing cpc GIF ![QRUB](https://github.com/Guilhermertp/Guilhermertp/assets/80826962/0a3dfb13-4e7a-4a3c-ac60-1270f0591a47) -->
 
-<div style="position: relative; width: max-content;">
-  <img src="https://github.com/user-attachments/assets/ee9a5ca6-6159-4365-ba98-fce3d5eddff1" alt="Background GIF" style="width:500px;">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Top GIF" style="position: absolute; top: 0; left: 0; width: 100px;">
-</div>
-![images](https://github.com/user-attachments/assets/bc8d2936-33fe-4860-87d6-9b838ad04d1d)
 
 
 <!--
@@ -16,7 +11,7 @@
 -->
 <div style="position: relative; width: max-content;">
   <!-- Background Space GIF -->
-  <img src="https://example.com/space.gif](https://github.com/user-attachments/assets/bc8d2936-33fe-4860-87d6-9b838ad04d1d" alt="Space GIF" style="width:500px;">
+  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Space GIF" style="width:500px;">
 
   <!-- Top Programmer GIF -->
   <img src="https://example.com/programmer.gif](https://github.com/user-attachments/assets/ee9a5ca6-6159-4365-ba98-fce3d5eddff1" alt="Programmer GIF" style="position: absolute; top: 100px; left: 150px; width: 150px;">
