@@ -7,6 +7,12 @@
 
 <p align="center"><img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p>
 
+
+img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-plain.svg" alt="Power BI" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/> 
+
 ![snake gif](https://github.com/Guilhermertp/Guilhermertp/blob/output/github-contribution-grid-snake.gif)
 <!--
 **Guilhermertp/Guilhermertp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
