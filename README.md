@@ -15,7 +15,7 @@
 </div>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,git,py,sklearn,htmlr&perline=3)](https://skillicons.dev)
 
 <!--
 **Guilhermertp/Guilhermertp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
