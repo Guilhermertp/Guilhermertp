@@ -14,6 +14,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/> 
 </div>
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <!--
 **Guilhermertp/Guilhermertp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
