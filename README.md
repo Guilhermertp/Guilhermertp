@@ -6,16 +6,9 @@
 
 
 
-<!--
-<p align="center"><img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p>
--->
-<div style="position: relative; width: max-content;">
-  <!-- Background Space GIF -->
-  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Space GIF" style="width:500px;">
 
-  <!-- Top Programmer GIF -->
-  <img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" alt="Programmer GIF" style="position: absolute; top: 100px; left: 150px; width: 150px;">
-</div>
+<p align="center"><img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p>
+
 
 
 <!-- remove anotation to show tools icons
