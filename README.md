@@ -1,6 +1,7 @@
 <div style="background-color: black; color: white; padding: 20px; border-radius: 10px;">
 
 <h1 align="center">Hi there 👋 I'm Guilherme </h1>
+</div>
                                                        
 <!-- REmove the anotation to display the counter ![Visitor Count](https://profile-counter.glitch.me/Guilhermertp/count.svg) -->
 
@@ -11,7 +12,6 @@
 
 <p align="center"><img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p>
 
-</div>
 
 <!-- remove anotation to show tools icons
 <div align="center">
