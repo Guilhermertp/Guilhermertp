@@ -1,4 +1,4 @@
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+<div style="background-color: black; color: white; padding: 20px; border-radius: 10px;">
 
 <h1 align="center">Hi there 👋 I'm Guilherme </h1>
                                                        
@@ -59,3 +59,4 @@ Here are some ideas to get you started:
 
 
 ->
+</div>
