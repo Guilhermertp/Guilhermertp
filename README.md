@@ -10,7 +10,8 @@
 
 <p align="center"><img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p>
 
-
+### Web Apps
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo-1)](https://github.com/yourusername/your-repo-1)
 <!-- remove anotation to show tools icons
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
